@@ -133,6 +133,8 @@ https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Juwelo_TV.svg" group-title="Altro",JUWELO ITALIA
@@ -525,8 +527,6 @@ https://dlhd.click/stream/stream-874.php
 https://dlhd.click/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 256 (D)
 https://dlhd.click/stream/stream-876.php
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -939,7 +939,7 @@ https://dlhd.click/stream/stream-577.php
 #EXTINF:-1 tvg-id="tourdefranceuciworldtourstage19albertvilletolaplagnemountain129km4550m" tvg-name="Cycling | Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m (13:00)" tvg-logo="https://www.letour.fr/img/global/logo-og.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m (13:00)
 https://dlhd.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="artisticgymnasticssummeruniversiaderhineruhr2025womensallaroundfinals" tvg-name="Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)" tvg-logo="https://logos-download.com/wp-content/uploads/2018/12/USA_Gymnastics_Logo.png" group-title="Eventi Live",Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)
+#EXTINF:-1 tvg-id="artisticgymnasticssummeruniversiaderhineruhr2025womensallaroundfinals" tvg-name="Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)" tvg-logo="https://pngimg.com/uploads/gymnastics/gymnastics_PNG77.png" group-title="Eventi Live",Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)
 https://dlhd.click/stream/stream-878.php
 
 
